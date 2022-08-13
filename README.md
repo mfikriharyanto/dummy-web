@@ -217,3 +217,4 @@ To familiarize yourself, I provide 3 quests for you:
 
 The web implementation itself is from [emoji-search](https://github.com/ahfarmer/emoji-search).
 This repo only is for providing guide on how to create build pipeline and deploy using github action. No intention of claiming emoji-search implementation.
+
